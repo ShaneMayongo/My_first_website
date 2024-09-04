@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Shane's Favourite Movies</title>
+    <link rel="stylesheet" href="./style.css">
+    </head>
+
+<body>
+    <h1>Top 3 Movies Watched</h1>
+    <h2>By Shane Mayongo</h2>
+
+    <ol>
+        <li>The Planet Of Apes</li>
+        <img id="The Planet Of The Apes" src="./Assets/Images/Ceasar.jpg" alt="picture from the movie of Caeser"/>
+
+        <li>The Matrix</li>
+        <img id="The Matrix" src="./Assets/Images/OIP.jpg" alt="A picture of the movie Neo"/>
+
+        <li> Creed</li>
+        <img id="Creed" src="./Assets/Images/Michael B. Jordan'.jpg" alt="A picture of the movie Neo"/>
+
+    </ol>
+    
+</body>
+</html>
